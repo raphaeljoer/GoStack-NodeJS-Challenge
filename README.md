@@ -23,11 +23,11 @@ This project was developed during RocketSeat GoStack Bootcamp with the following
 
 ## Prerequisites
 
-In order to test the app you should install [NodeJS LST version](https://nodejs.org/en/download/), [Yarn][yarn] package manager and [Insomnia][insomnia] REST client.
+In order to test the app you should install [NodeJS LST version](https://nodejs.org/en/download/), [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable) package manager and  [Insomnia](https://insomnia.rest/) REST client.
   
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js LTS][nodejs] + [Yarn][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [NodeJS](https://nodejs.org/en/) + [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
