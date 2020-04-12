@@ -31,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/raphaeljoer/gostack-desafios-conceitos-nodejs/ NodeChallenge
+$ git clone https://github.com/raphaeljoer/GoStack-NodeJS-Challenge/
 
 # Go into the repository
-$ cd NodeChallenge
+$ cd GoStack-NodeJS-Challenge
 
 # Install dependencies
 $ yarn install
@@ -48,14 +48,8 @@ $yarn dev
 ```
 
 ## License
-This project is under the MIT license. See the [LICENSE](https://github.com/raphaeljoer/gostack-desafios-conceitos-nodejs/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/raphaeljoer/GoStack-NodeJS-Challenge/blob/master/LICENSE) for more information.
 
 ---
 
 Made with ♥ by Raphael Joer :wave: [Get in touch!](https://www.linkedin.com/in/raphael-joer-3b2a5b45/)
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
