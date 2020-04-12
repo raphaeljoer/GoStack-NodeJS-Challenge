@@ -43,7 +43,7 @@ $ yarn install
 $ yarn test
 
 # Init
-$yarn dev
+$ yarn dev
 
 ```
 
